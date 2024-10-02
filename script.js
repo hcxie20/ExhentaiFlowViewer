@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         exhentai flow viewer
+// @name         Exhentai Flow Viewer
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @author       MrJohnnY20
