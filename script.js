@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Exhentai Flow Viewer
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.2.1
 // @author       MrJohnnY20
 // @match        https://exhentai.org/s/*
 // @description  This scripts helps you to view a gallery in a single page, from up to down.
